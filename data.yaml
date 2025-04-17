@@ -1,0 +1,4 @@
+train: D:/SRTP/人脸检测/images/train
+val: D:/SRTP/人脸检测/images/val
+nc: 1
+names: ['face']
